@@ -42,13 +42,10 @@ class Skills extends Desenvolvedor {
 
 <h2>GitHub Estatísticas</h2>
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Gurupreet" style="margin-right: 30px">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorDiass&theme=dracula&hide_langs_below=1" />
-</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorDiass&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorDiass&show_icons=true&theme=dracula&line_height=27" alt="JoaoVitorDiass github stats"/>
+ 
 <br>
 <br>
 <hr>
