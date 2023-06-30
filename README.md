@@ -42,10 +42,13 @@ class Skills extends Desenvolvedor {
 
 <h2>GitHub Estatísticas</h2>
 &nbsp;&nbsp;&nbsp;
+<span>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorDiass&theme=dracula&hide_langs_below=1" />
 &nbsp;&nbsp;&nbsp;&nbsp;
+</span>
+<span>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorDiass&show_icons=true&theme=dracula&line_height=27" alt="JoaoVitorDiass github stats"/>
- 
+ </span>
 <br>
 <br>
 <hr>
