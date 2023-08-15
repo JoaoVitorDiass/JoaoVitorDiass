@@ -9,8 +9,17 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
   <a href="https://www.instagram.com/jaoovit0r/" alt="Instagram" target='_blank'>
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/>
+  </a>
+
+  <a href="https://wakatime.com/@68826322-e07f-482d-9477-ced09effb31a">
+    <img src="https://wakatime.com/badge/user/68826322-e07f-482d-9477-ced09effb31a.svg" alt="Total time coded since Jun 30 2023" />
+  </a>
+ 
+  
 </p> 
+
+
 
 ```js
 import Desenvolvedor from 'JoaoVtorDiass';
@@ -51,5 +60,6 @@ class Skills extends Desenvolvedor {
  </span>
 <br>
 <br>
+
 <hr>
 <p>Inspirado em : <a href='https://github.com/iuricode' target='_blank'>iuricode</a></p>
