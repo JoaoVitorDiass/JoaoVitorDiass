@@ -32,7 +32,7 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['PHP', 'JavaScript', 'Java', 'Html', 'Css', 'C++'];
+  linguagens  = ['PHP', 'JavaScript', 'Java', 'C#','Html', 'Css', 'C++'];
   frameworks  = ['ScriptCase', 'Java Spring'];
   outros      = ['Oracle SQL', 'Postgres SQL', 'Linux', 'Google Cloud', 'API'];
 }
