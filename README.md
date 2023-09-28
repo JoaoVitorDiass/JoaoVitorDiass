@@ -34,7 +34,7 @@ class SobreMim extends Desenvolvedor {
 class Skills extends Desenvolvedor {
   linguagens  = ['PHP', 'JavaScript', 'Java', 'C#','Html', 'Css', 'C++'];
   frameworks  = ['ScriptCase', 'Java Spring'];
-  outros      = ['Oracle SQL', 'Postgres SQL', 'Linux', 'Google Cloud', 'API'];
+  outros      = ['Oracle SQL', 'Postgres SQL', 'Linux', 'Google Cloud', 'API', 'JQUERY'];
 }
 ```
 
@@ -44,7 +44,7 @@ class Skills extends Desenvolvedor {
 <ul>
   <li>Tenho 20 anos</li>
   <li>Estou no 6° termo de Sistemas de Informação - UNOESTE</li>
-  <li>Trabalho a 8 Meses na empresa <a href='http://www.bmcactive.com.br/' target='_blank'>BMC Active</a></li>
+  <li>Trabalho a 1 ano na empresa <a href='http://www.bmcactive.com.br/' target='_blank'>BMC Active</a></li>
   <li>Amo jogar Futsal ⚽</li>
   <li>Adoro aprender novas Tecnologias</li>
 </ul>
@@ -60,6 +60,7 @@ class Skills extends Desenvolvedor {
  </span>
 <br>
 <br>
+
 
 <hr>
 <p>Inspirado em : <a href='https://github.com/iuricode' target='_blank'>iuricode</a></p>
