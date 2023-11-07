@@ -26,15 +26,16 @@ import Desenvolvedor from 'JoaoVtorDiass';
 
 class SobreMim extends Desenvolvedor {
   nome      = 'João Vitor Dias';
-  area      = 'Desenvolvedor Web FullStack';
+  area      = 'Desenvolvedor Web';
   trabalho  = 'BMC Active';
   local     = 'Presidente Prudente - SP';
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['PHP', 'JavaScript', 'Java', 'C#','Html', 'Css', 'C++'];
-  frameworks  = ['ScriptCase', 'Java Spring'];
-  outros      = ['Oracle SQL', 'Postgres SQL', 'Linux', 'Google Cloud', 'API', 'JQUERY'];
+  linguagens  = ['Html', 'CSS', 'JavaScript', 'ReactJS', 'NodeJS', 'PHP',  'Java', 'C#', 'C++'];
+  frameworks  = ['ScriptCase', 'Java Spring', 'Next'];
+  banco_dados = ['Oracle SQL', 'Postgres SQL', 'MySql' ]
+  ferramentas = [ 'Google Cloud', 'Linux', 'API', 'JQUERY', 'Docker'];
 }
 ```
 
@@ -45,21 +46,38 @@ class Skills extends Desenvolvedor {
   <li>Tenho 20 anos</li>
   <li>Estou no 6° termo de Sistemas de Informação - UNOESTE</li>
   <li>Trabalho a 1 ano na empresa <a href='http://www.bmcactive.com.br/' target='_blank'>BMC Active</a></li>
+  <li>Adoro gatos 🐈‍⬛</li>
   <li>Amo jogar Futsal ⚽</li>
   <li>Adoro aprender novas Tecnologias</li>
 </ul>
 
 <h2>GitHub Estatísticas</h2>
 &nbsp;&nbsp;&nbsp;
-<span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorDiass&theme=dracula&hide_langs_below=1" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-</span>
-<span>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorDiass&show_icons=true&theme=dracula&line_height=27" alt="JoaoVitorDiass github stats"/>
- </span>
-<br>
-<br>
+
+<table>
+  <tr>
+    <td rowspan='2' aling="center">
+       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JoaoVitorDiass&theme=dracula&layout=compact"/>
+    </td>
+    <td rowspan='1' aling="center"/>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorDiass&theme=dracula&layout=donut&line_height=27&card_width=200"/>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan='1' aling="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=JoaoVitorDiass&show_icons=true&theme=dracula&line_height=27&card_width=200"/>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
 
 
 <hr>
