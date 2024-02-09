@@ -40,12 +40,12 @@ class Skills extends Desenvolvedor {
 ```
 
 <h1> 🌎 Hello Word ! 🌎</h1> 
-<p>Meu nome é João Vitor Dias e sou Desenvolvedor Web <b>FullStack</b></p>
+<p>Meu nome é João Vitor Dias e sou <b>Desenvolvedor Web</b></p>
 <p>Mais algumas informações sobre mim:</p>
 <ul>
   <li>Tenho 20 anos</li>
   <li>Estou no 6° termo de Sistemas de Informação - UNOESTE</li>
-  <li>Trabalho a 1 ano na empresa <a href='http://www.bmcactive.com.br/' target='_blank'>BMC Active</a></li>
+  <li>Trabalho a mais de 1 ano na empresa <a href='http://www.bmcactive.com.br/' target='_blank'>BMC Active</a></li>
   <li>Adoro gatos 🐈‍⬛</li>
   <li>Amo jogar Futsal ⚽</li>
   <li>Adoro aprender novas Tecnologias</li>
