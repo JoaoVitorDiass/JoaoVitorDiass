@@ -33,8 +33,8 @@ class SobreMim extends Desenvolvedor {
 
 class Skills extends Desenvolvedor {
   linguagens  = ['Html', 'CSS', 'JavaScript', 'ReactJS', 'NodeJS', 'PHP',  'Java', 'C#', 'C++'];
-  frameworks  = ['ScriptCase', 'Java Spring', 'Next'];
-  banco_dados = ['Oracle SQL', 'Postgres SQL', 'MySql' ]
+  frameworks  = ['ScriptCase', 'Java Spring', 'Next', 'Expo', 'VueJS'];
+  banco_dados = ['Oracle SQL', 'Postgres SQL', 'MySql', 'SQL Server', 'MongoDB' ]
   ferramentas = [ 'Google Cloud', 'Linux', 'API', 'JQUERY', 'Docker'];
 }
 ```
@@ -43,11 +43,13 @@ class Skills extends Desenvolvedor {
 <p>Meu nome é João Vitor Dias e sou <b>Desenvolvedor Web</b></p>
 <p>Mais algumas informações sobre mim:</p>
 <ul>
-  <li>Tenho 20 anos</li>
-  <li>Estou no 6° termo de Sistemas de Informação - UNOESTE</li>
-  <li>Trabalho a mais de 1 ano na empresa <a href='http://www.bmcactive.com.br/' target='_blank'>BMC Active</a></li>
+  <li>Tenho 21 anos</li>
+  <li>Estou no 7° termo de Sistemas de Informação - UNOESTE</li>
+  <li>Trabalho a 2 anos na empresa <a href='http://www.bmcactive.com.br/' target='_blank'>BMC Active</a></li>
   <li>Adoro gatos 🐈‍⬛</li>
   <li>Amo jogar Futsal ⚽</li>
+  <li>Casado 💍</li>
+  <li>Gamer 🎮</li>
   <li>Adoro aprender novas Tecnologias</li>
 </ul>
 
