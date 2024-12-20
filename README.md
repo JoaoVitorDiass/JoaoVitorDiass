@@ -48,9 +48,9 @@ class Skills extends Desenvolvedor {
   <li>Tenho 22 anos</li>
   <li>Estou no 8° termo de Sistemas de Informação - UNOESTE</li>
   <li>Trabalho a 2 anos na empresa <a href='http://www.bmcactive.com.br/' target='_blank'>BMC Active</a></li>
+  <li>Casado 💍</li>
   <li>Gatos 🐈‍⬛</li>
   <li>Futebol ⚽</li>
-  <li>Casado 💍</li>
   <li>Gamer 🎮</li>
   <li>Adoro aprender novas Tecnologias</li>
 </ul>
