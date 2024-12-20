@@ -32,22 +32,24 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['Html', 'CSS', 'JavaScript', 'ReactJS', 'NodeJS', 'PHP',  'Java', 'C#', 'C++'];
-  frameworks  = ['ScriptCase', 'Java Spring', 'Next', 'Expo', 'VueJS'];
-  banco_dados = ['Oracle SQL', 'Postgres SQL', 'MySql', 'SQL Server', 'MongoDB' ]
-  ferramentas = [ 'Google Cloud', 'Linux', 'API', 'JQUERY', 'Docker'];
+  linguagens  = ['PHP', 'Java', 'C#', 'Javascript'];
+  frameworks  = ['ScriptCase (PHP)', 'Spring Boot (java)', 'Express (js)', 'Next (js)', 'Expo (js)', 'Vue (js)', 'Jquery(js)'];
+  bancoDeDados = ['Oracle', 'Postgres', 'MySql', 'SQL Server', 'MongoDB' ];
+  ferramentas = ['Google Cloud', 'Linux', 'Docker'];
+  metodologias = ['Scrum', 'Kanban'];
 }
 ```
 
 <h1> 🌎 Hello Word ! 🌎</h1> 
 <p>Meu nome é João Vitor Dias e sou <b>Desenvolvedor Web</b></p>
+<p>Atuo como analista de desenvolvimento de aplicações web há mais de dois anos, utilizando principalmente as seguintes tecnologias no meu dia a dia: HTML, CSS, JavaScript, PHP e SQL (Banco de Dados Oracle). Sou um profissional proativo, de fácil adaptação e com foco em encontrar as melhores soluções para os desafios do cotidiano.</p>
 <p>Mais algumas informações sobre mim:</p>
 <ul>
-  <li>Tenho 21 anos</li>
-  <li>Estou no 7° termo de Sistemas de Informação - UNOESTE</li>
+  <li>Tenho 22 anos</li>
+  <li>Estou no 8° termo de Sistemas de Informação - UNOESTE</li>
   <li>Trabalho a 2 anos na empresa <a href='http://www.bmcactive.com.br/' target='_blank'>BMC Active</a></li>
-  <li>Adoro gatos 🐈‍⬛</li>
-  <li>Amo jogar Futsal ⚽</li>
+  <li>Gatos 🐈‍⬛</li>
+  <li>Futebol ⚽</li>
   <li>Casado 💍</li>
   <li>Gamer 🎮</li>
   <li>Adoro aprender novas Tecnologias</li>
